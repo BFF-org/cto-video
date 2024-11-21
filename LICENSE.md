@@ -1,14 +1,3 @@
 Released to GitHub under Creative Commons license.
 
-We haven't decided yet if it's going to be 
-CC BY-NC-ND
-
-This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. 
-
-CC BY-NC-ND includes the following elements:
-
-BY: credit must be given to the creator.
-NC: Only noncommercial uses of the work are permitted.
-ND: No derivatives or adaptations of the work are permitted.
-
-or a more open one. 
+We haven't decided yet if it's going to be CC BY-NC-ND or a more open one like CC BY-SA.
